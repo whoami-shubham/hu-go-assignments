@@ -1,0 +1,86 @@
+[
+    {
+      "name": "David Noel",
+      "password": "pass3",
+      "email": "davidnoel@geologix.com",
+      "role": "PM"
+    },
+    {
+      "name": "Heidi Stephens",
+      "password": "pass1",
+      "email": "heidistephens@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Annette Giles",
+      "password": "pass3",
+      "email": "annettegiles@geologix.com",
+      "role": "PM"
+    },
+    {
+      "name": "Meadows Velasquez",
+      "password": "pass3",
+      "email": "meadowsvelasquez@geologix.com",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Wall Jefferson",
+      "password": "pass3",
+      "email": "walljefferson@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Atkinson Shaw",
+      "password": "pass2",
+      "email": "atkinsonshaw@geologix.com",
+      "role": "PM"
+    },
+    {
+      "name": "Hilary Brennan",
+      "password": "pass3",
+      "email": "hilarybrennan@geologix.com",
+      "role": "PM"
+    },
+    {
+      "name": "Mayra Stanley",
+      "password": "pass1",
+      "email": "mayrastanley@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Alana Barber",
+      "password": "pass3",
+      "email": "alanabarber@geologix.com",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Roxanne Hicks",
+      "password": "pass3",
+      "email": "roxannehicks@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Bond Santiago",
+      "password": "pass2",
+      "email": "bondsantiago@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Holcomb Mcdonald",
+      "password": "pass2",
+      "email": "holcombmcdonald@geologix.com",
+      "role": "STANDARD"
+    },
+    {
+      "name": "Barnes Kerr",
+      "password": "pass1",
+      "email": "barneskerr@geologix.com",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Knowles Robertson",
+      "password": "pass2",
+      "email": "knowlesrobertson@geologix.com",
+      "role": "STANDARD"
+    }
+  ]

@@ -1,0 +1,34 @@
+syntax = "proto3";
+package email;
+
+
+
+message UpdateResponse{
+    string res = 1;
+}
+
+message UpdateRequest{
+    string email = 1;
+    string title = 2;
+}
+
+message Report{
+ int32 id = 1;
+ string title = 2;
+ string description = 3;
+ string createdOn = 4;
+ string updatedOn = 5;
+ string reporterName = 6;
+}
+message ReportRequest {
+ string email = 1;
+ Report report = 2;
+}
+
+message  ReportResponse {
+   string res = 1;
+}
+service Email{
+      rpc Report (ReportRequest) returns (ReportResponse);
+      rpc Update (UpdateRequest) returns (UpdateResponse);
+    }
